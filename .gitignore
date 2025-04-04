@@ -1,0 +1,4 @@
+#Git除外設定の練習
+
+*.class
+/class/
